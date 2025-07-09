@@ -3,7 +3,5 @@ datasets
 openai
 python-dotenv
 pydantic
-nltk
 sentence-transformers
-trafilatura
 fastapi
